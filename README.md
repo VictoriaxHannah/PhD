@@ -1,5 +1,7 @@
 # PhD
-This repository contains a few insights into my PhD work at University College London.
+## This repository contains a few insights into my PhD work at University College London.
+
+---
 
 ```Poster-*.pdf```
 
