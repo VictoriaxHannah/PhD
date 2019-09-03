@@ -13,4 +13,4 @@ I like to make my posters unique and eye catching, with either an interesting de
 
 This is a list of the courses I attended alongside my research.
 
-I was keen to learn about Python and Machine Learning, and was fortunate to be able to attend +30 hours of courses on these topics.
+I was keen to learn about Python and Machine Learning, and was fortunate to be able to attend 30+ hours of courses on these topics.
